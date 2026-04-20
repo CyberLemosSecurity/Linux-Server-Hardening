@@ -1,4 +1,4 @@
-# 🚀 Linux Security Hardening & Audit Lab
+#  Linux Security Hardening & Audit Lab
 *Implementing security guidelines and compliance on Linux servers (Ubuntu).*
 
 - Objective
